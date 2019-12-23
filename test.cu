@@ -1,12 +1,3 @@
-/*
-please note that the series of optmiztion technology is not in official document.
-
-All the tests are based on AMD MI25 radeon instict and AMD ROCm.
-*/
-
-
-
-
 #include <assert.h>
 #include <stdio.h>
 #include <algorithm>
